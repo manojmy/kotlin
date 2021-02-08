@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">kotlin</string>
+    <string name="apptitle_login">Login</string>
+    <string name="apptitle_dashboard">Dashboard</string>
+</resources>
